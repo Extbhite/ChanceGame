@@ -1,0 +1,3 @@
+echo Starting ChanceGame...
+echo Terminal giving error? If this situation - start requirements.sh"(chmod +x requirements.sh)"
+python3 startChance.py
