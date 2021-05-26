@@ -1,5 +1,6 @@
 # About
 This game maked for fun by bored, if you can send idea and request update of this script.
+Next update soon...
 
 - Lang: ru
 - Author: @itsdominus (Github)
